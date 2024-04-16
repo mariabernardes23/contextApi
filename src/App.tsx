@@ -4,6 +4,7 @@ import { Aluno } from './components/Aluno'
 import { UserProvider } from './context/user'
 import { Formulario } from './components/Formulario'
 import { Total } from './components/Total'
+import { Footer } from './components/Footer'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Formulario />
           <Aluno />
         </section>
+        <Footer />
       </div>
     </UserProvider>
   )
