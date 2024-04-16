@@ -13,7 +13,7 @@ Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em seu 
    Abra o terminal (ou o Git Bash no Windows) e execute o seguinte comando:
 
    ```bash
-   git clone https://github.com/Jemisson/skeleton-react.js.git
+   git clone https://github.com/mariabernardes23/contextApi.git
    ```
 
 2. **Navegue até o diretório do projeto:**
@@ -21,7 +21,7 @@ Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em seu 
    Use o comando `cd` para entrar no diretório do projeto que você acabou de clonar:
 
    ```bash
-   cd skeleton-react
+   cd contextAp
    ```
 
 3. **Instale as dependências:**
